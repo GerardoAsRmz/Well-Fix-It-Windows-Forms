@@ -1,0 +1,306 @@
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe.config
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form5.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+C:\Users\Gerar\OneDrive\Escritorio\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form5.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitud.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RegistroTecnicos.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitud.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RegistroTecnicos.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitud.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RegistroTecnicos.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitud.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RegistroTecnicos.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitud.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form5.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RegistroTecnicos.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+D:\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe.config
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitud.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form5.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RegistroTecnicos.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+E:\UTSC_3er_Tetra\Well_Fix_It_Forms.2\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms._10.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms._10.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitudTecnico.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitudTecnico.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms._10.resources
+F:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitudTecnico.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms._10.resources
+G:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitudTecnico.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Reseña.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Historial_Usuario.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\en-US\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.en-US.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\en-US\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.en-US.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\aa\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\ssy\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.aa.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.ssy.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\aa\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\ssy\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\es\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.es.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\es\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RecuperarContraseña.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Preguntas_Frecuentes.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.USUARIOS.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\en-US\Well_Fix_It_Forms.resources.dll
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\aa\Well_Fix_It_Forms.resources.dll
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\es\Well_Fix_It_Forms.resources.dll
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\ssy\Well_Fix_It_Forms.resources.dll
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Historial_Usuario.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Preguntas_Frecuentes.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RecuperarContraseña.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Reseña.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.USUARIOS.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.en-US.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.aa.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.en-US.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.es.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.ssy.resources
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\en-US\Well_Fix_It_Forms.resources.dll
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\aa\Well_Fix_It_Forms.resources.dll
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\es\Well_Fix_It_Forms.resources.dll
+D:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\ssy\Well_Fix_It_Forms.resources.dll
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe.config
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_usuario.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_tecnico.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_tecnico_2.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_tecnico_3.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_usuario_2.resources
+E:\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_usuario_3.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe.config
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.exe
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\Well_Fix_It_Forms.pdb
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\en-US\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\aa\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\es\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\bin\Debug\ssy\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.AssemblyReference.cache
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe.config
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms._10.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Aspiradoras.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitud.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.ExitoSolicitudTecnico.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form2.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form3.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form6.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form7.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Historial_Usuario.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Lavadoras.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Licuadoras.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_tecnico.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_tecnico_2.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_tecnico_3.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_usuario.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_usuario_2.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Manual_uso_usuario_3.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Microondas.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Minisplits.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Preguntas_Frecuentes.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Properties.Resources.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RecuperarContraseña.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Refrigeradores.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.RegistroTecnicos.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Reseña.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Secadoras.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisiones.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Televisores.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Tostadores.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.USUARIOS.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Ventiladores.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form1.en-US.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.aa.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.en-US.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.es.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.Form4.ssy.resources
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.GenerateResource.cache
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.csproj.CoreCompileInputs.cache
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\en-US\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\aa\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\es\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\ssy\Well_Fix_It_Forms.resources.dll
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.exe
+E:\Term_UTSC\Terms UT\UTSC_3rd_Term\Tercer_Parcial\Integradora\Well_Fix_It_Forms\Well_Fix_It_Forms\obj\Debug\Well_Fix_It_Forms.pdb
