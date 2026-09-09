@@ -158,36 +158,8 @@ add constraint FK_Reseña_Pedidos_Agendados Foreign key(id_Pedidos_Agendados)
 References Pedidos_Agendados(id_Pedidos_Agendados);
 go
 
---ALTER TABLE Tecnicos ADD UNIQUE (correo)
---ALTER TABLE Usuarios ALTER COLUMN Hash NVARCHAR(MAX);
---ALTER TABLE Usuarios ALTER COLUMN Salt NVARCHAR(MAX);
---DELETE FROM Solicitud_Servicios;
---ALTER TABLE Solicitud_Servicios  ADD motivo_cancelacion VARCHAR(300) NULL;
---ALTER TABLE Reseña  ALTER COLUMN comentario VARCHAR(MAX); 
---ALTER TABLE Tecnicos ADD fotopersonal VARBINARY(MAX) NULL;
---ESTO ES PARA BORRAR UNA LINEA ES BD
---DELETE FROM Usuarios WHERE id_Usuarios =2;  
---DROP TABLE Solicitudes_Finalizadas;
--- ESTO ES PARA CAMBIA UN DATO DE UN USUARIO EN DB
---UPDATE Solicitudes_Finalizadas SET Solicitudes_Servicios = 'Solicitudes_Finalizadas' WHERE id_Reseña = 100;
---para borrar una columna de alguna tabla
---alter table Solicitud_Servicios add categoriaequipo VARCHAR(30), BEFORE descripcionproblema;
---alter table Usuarios  drop column  letra;
-
-
-
-/*
-select pa.id_Solicitud_Servicios,ss.antiguedadequipo
-from Pedidos_Agendados pa
-inner join Solicitud_Servicios ss
-ON pa.id_Pedidos_Agendados = ss.id_Solicitud_Servicios
-
-select u.nombre,u.apellido,u.correo,u.municipio,ss.id_Estatus,ss.descripcionproblema,ss.fechasolicitud,ss.horavisita
-from Usuarios u
-left join Solicitud_Servicios ss
-on u.apellido = 'HERNANDEZ'
-*/
-
+						
+						--STORE PROCEDURE--
 create procedure sp_insert_usuario
 	@nombre        varchar(50),
     @apellido      varchar(50),
@@ -246,29 +218,22 @@ create procedure sp_insert_usuario
 		end try
 		begin catch
 			print 'Ocurrió un error al insertar el usuario';
-			print ERROR_MESSAGE();
+			print Error_Message();
 		end catch
 	end;
 	
-
-
-
-
-	exec sp_insert_usuario 
-    @nombre = 'Prueba',
-    @apellido = 'Demo',
-    @correo = 'demo@mail.com',
-    @telefono = '8123456789',
-    @calle = 'Av. Siempre Viva',
-    @nomenclatura = '123',
-    @colonia = 'Centro',
-    @entrecalles = 'Juárez y Hidalgo',
-    @codigopostal = '64000',
-    @municipio = 'Monterrey',
-    @estado = 'Nuevo León',
-    @contraseña = '12345',
-    @Hash = NULL,
-    @Salt = NULL,
-    @foto = NULL;
+	CREATE PROCEDURE sp_Inicio_Sesion
+	@correo varchar (50)
+	AS
+	BEGIN
+		BEGIN TRY
+		SELECT Hash, Salt,nombre, apellido, id_Usuarios FROM Usuarios WHERE Correo = @correo
+			print 'Inicio con exito'
+		END TRY
+		BEGIN CATCH
+			print 'Ocurrió un error al Iniciar Sesion';
+			print Error_Message();
+		END CATCH
+	END;
 
 

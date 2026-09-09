@@ -77,8 +77,8 @@ namespace Well_Fix_It_Forms
             try
             {
                 Conectar();
-                SqlCommand cmd = new SqlCommand("INSERT INTO Tecnicos (Nombre, Apellidos, Correo, Telefono, Calle,Nomenclatura,Colonia,Entrecalles, Codigpostal, Municipio,Estado, Especialidad, Añosdeexperiencia, Genero, Contraseña,Hash,Salt,Foto,Fotopersonal)" +
-                                                "VALUES (@nombre, @apellidos, @correo, @telefono, @calle,@nomenclatura,@colonia,@entrecalles,@codigpostal,  @municipio,@estado, @especialidad, @añosdeexperiencia, @genero, @contraseña,@hash,@salt,@foto,@fotopersonal)", conectada);
+                SqlCommand cmd = new SqlCommand("sp_insert_tecnicos", conectada);
+                cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.Add("@nombre", SqlDbType.VarChar, 50).Value = nombre;
                 cmd.Parameters.Add("@apellidos", SqlDbType.VarChar, 50).Value = apellidos;
                 cmd.Parameters.Add("@correo", SqlDbType.VarChar, 50).Value = correo;
@@ -150,7 +150,8 @@ namespace Well_Fix_It_Forms
             try
             {
                 Conectar();
-                SqlCommand cmd = new SqlCommand("SELECT Hash, Salt,nombre, apellido, id_Usuarios FROM Usuarios WHERE Correo = @correo", conectada);
+                SqlCommand cmd = new SqlCommand("sp_Inicio_Sesion_Usuario", conectada);
+                cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@correo", correo);
                 using (SqlDataReader reader = cmd.ExecuteReader())
                 {
