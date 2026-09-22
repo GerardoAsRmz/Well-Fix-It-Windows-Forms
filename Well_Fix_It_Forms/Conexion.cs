@@ -118,8 +118,8 @@ namespace Well_Fix_It_Forms
             try
             {
                 Conectar();
-                SqlCommand cmd = new SqlCommand("INSERT INTO Solicitud_Servicios (Categoria,Descripcionproblema,Tipodeservicio,Antiguedadequipo,Tipopago,Fechasolicitud,Horavisita,Marcaequipo,id_Usuarios,id_Estatus)" +
-                                                "VALUES (@categoria,@descripcionproblema,@tipodeservicio,@antiguedadequipo,@tipopago,@fechasolicitud,@horavisita,@marcaequipo,@id_Usuarios,@id_Estatus)", conectada);
+                SqlCommand cmd = new SqlCommand("sp_solicitud_servicios", conectada);
+                cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.Add("@categoria", SqlDbType.VarChar, 30).Value = categoria;
                 cmd.Parameters.Add("@descripcionproblema", SqlDbType.VarChar, 200).Value = descripcionproblema;
                 cmd.Parameters.Add("@tipodeservicio", SqlDbType.VarChar, 50).Value = tiposervicio;
