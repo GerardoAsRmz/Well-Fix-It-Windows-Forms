@@ -222,7 +222,7 @@ create procedure sp_insert_usuario
 		end catch
 	end;
 	
-	CREATE PROCEDURE sp_Inicio_Sesion
+	CREATE PROCEDURE sp_Inicio_Sesion_Usuario
 	@correo varchar (50)
 	AS
 	BEGIN
